@@ -1,19 +1,27 @@
 {
   "name": "Viviane M. O. Santos",
-  "photo": "",
+  "photo": "https://avatars.githubusercontent.com/u/98031664?s=400&u=583415a1ce1270b2efe865ca377abb3615ea007a&v=4",
   "job": "Analista de Sistemas",
   "location": "São Roque - SP",
-  "phone": "(11) ",
+  "phone": "(11) 96386-9941",
   "email": "viviane.m.oliveira.s@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
         "name": "Angular",
@@ -24,55 +32,87 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "PHP",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/php.png"
+      },
+      {
+        "name": "Kotlin",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/kotlin.png"
+      },
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
+      },
+      {
+        "name": "vscode",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
       }
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
+      "Organização e Gestão do Tempo",
       "Trabalho em equipe",
-      "Flexibilidade",
-      "Organização"
+      "Resiliência",
+      "Flexibilidade"
     ]
   },
   "languages": [
     "Português BR",
     "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Espanhol (iniciante)"
+  ],
+  "education": [
+    {
+      "name": "Pós-graduação: Segurança da Informação",
+      "period": "2023"
+    },
+    {
+      "name": "Gradução - Sistemas de Informação",
+      "period": "2019 - 2022"
+    },
+    {
+      "name": "ETEC de São Roque - Ensino Técnico em Administração",
+      "period": "2013 - 2014"
+    },
+    {
+      "name": "ETEC de São Roque - Ensino Médio",
+      "period": "2012 - 2014"
+    }
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Layout Responsivo para o site do Discord",
+      "url": "https://github.com/Viviane-Maria/trilha-css-04",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Pokédex utilizando pokéAPI",
+      "url": "https://github.com/Viviane-Maria/js-pokedex",
+      "github": true
+    },
+    {
+      "name": "Projeto para rastrear hábitos",
+      "url": "https://github.com/Viviane-Maria/nlw-setup",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
-    },
-    {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Auxiliar de escritório - Prefeitura de São Roque",
+      "period": "2017 - até o momento",
+      "description": "Treinamento dos profissionais de saúde para utilizar o sistema de prontuário eletrônico. Fechamento dos sistemas amublatoriais e hospitalares e envio ao Ministério da Saúde."
     }
   ]
 }
